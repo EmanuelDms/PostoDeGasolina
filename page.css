@@ -1,0 +1,80 @@
+	#textoP{
+		font-size: 10pt;
+		font-weight: bolder;
+	}
+	body{
+		margin: 0;
+		padding: 0;
+		font-family: sans-serif;
+		background-size: cover; 
+		background-color: orange;
+	}form{
+		background-color: rgba(255,255,255,0.5);
+		padding: 10px;
+		margin: 10px;
+		border: 5px double black;
+		border-radius: 50px;
+		text-align: center;
+	}
+	h1{
+		font-family: Agency FB;
+		text-align: center;
+		background-color: white;
+		margin: auto 0px;
+		border-radius: 20px;
+	}
+	label{
+		font-family: Agency FB;
+		font-weight: bold;
+		font-size: 170%;
+	}
+	input{
+		border-radius: 10px;
+		padding: 5px;
+		box-shadow: 10px;
+	}
+	table{
+		margin: auto;
+		text-align: center;
+		background-color: grey;		
+		color: white;
+		padding: 2px;
+		border-color: black;
+		border: 12px;
+		font-family: Britannic;
+		box-shadow: 10px;
+		border-radius: 10px;
+	}
+	th{
+		padding: 10px;
+		text-align: center;
+		background-color: black;
+		margin: 0px;
+	}
+	td{
+		padding: 10px;
+		text-align: center;
+		background-color: white;
+		color: black;
+		margin: 0px;	
+	}
+	caption{
+		background-color: black;
+		padding: 10px;
+	}
+	select{
+		border-radius: 6px;
+		text-shadow: 30px 30px 30px rgba(0,0,0,.3);
+
+	}fieldset{
+		background-color: rgba(173,216,230,0.5);
+		margin: 10px;
+		border-radius: 70px;
+	}
+	#copyright{
+		background-color: transparent;
+	}
+	#copyright td{
+		background-color: transparent;
+	}
+
